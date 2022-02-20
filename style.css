@@ -6,14 +6,14 @@
 
 
 body{
-  
+  background-color: hsl(233, 47%, 7%);
 }
 
 .card{
   display: grid;
   grid-template-columns: 1fr 1fr;
   box-sizing: border-box;
-  margin: auto auto;
+  margin: 16rem auto;
   max-width: 72rem;
   background-color: var(--card-bg);
   border-radius: 8px;
@@ -24,7 +24,6 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  border-radius: 8px;
 }
 
 .text-box{
