@@ -13,7 +13,7 @@ body{
   display: grid;
   grid-template-columns: 1fr 1fr;
   box-sizing: border-box;
-  margin: 16rem auto;
+  margin: 14rem auto;
   max-width: 72rem;
   background-color: var(--card-bg);
   border-radius: 8px;
